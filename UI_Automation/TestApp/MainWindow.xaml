@@ -1,0 +1,15 @@
+﻿<Window x:Class="TestApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TestApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="191.96" Width="292.716">
+    <StackPanel>
+        <TextBox Name="numA" Height="23" TextWrapping="Wrap"  Margin="0,5" Width="200"/>
+        <TextBox Name="numB" Height="23" TextWrapping="Wrap"  Margin="0,0,0,5" Width="200"/>
+        <Button Name="sumBtn" Content="Add" Margin="0,0,0,5" Width="50" Click="sumBtn_Click"/>
+        <TextBox Name="sumTxtBox" IsReadOnly="True" Height="23" TextWrapping="Wrap" Width="200"/>
+    </StackPanel>
+</Window>

@@ -1,0 +1,12 @@
+D:\WinDev\UI_Automation\Tester\bin\Debug\Tester.exe.config
+D:\WinDev\UI_Automation\Tester\bin\Debug\Tester.exe
+D:\WinDev\UI_Automation\Tester\bin\Debug\Tester.pdb
+D:\WinDev\UI_Automation\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+D:\WinDev\UI_Automation\Tester\obj\Debug\Tester.exe
+D:\WinDev\UI_Automation\Tester\obj\Debug\Tester.pdb
+C:\Users\Axilen\Downloads\UI_Automation\UI_Automation\Tester\bin\Debug\Tester.exe.config
+C:\Users\Axilen\Downloads\UI_Automation\UI_Automation\Tester\bin\Debug\Tester.exe
+C:\Users\Axilen\Downloads\UI_Automation\UI_Automation\Tester\bin\Debug\Tester.pdb
+C:\Users\Axilen\Downloads\UI_Automation\UI_Automation\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\Users\Axilen\Downloads\UI_Automation\UI_Automation\Tester\obj\Debug\Tester.exe
+C:\Users\Axilen\Downloads\UI_Automation\UI_Automation\Tester\obj\Debug\Tester.pdb
